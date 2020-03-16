@@ -35,7 +35,7 @@ class _MainWidgetState extends State<MainWidget> with TickerProviderStateMixin {
         title: 'HomePage',
         context: widget.context
       ),
-      items: [
+      items: [ 
         DrawerItem(
           text: Text(AppLocalizations.of(widget.context).translate("homePage")?? Const.homePage, style: TextStyle(color: Colors.white)),
           icon: Icon(Icons.home, color: Colors.white),
