@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "679236146099",
+    "firebase_url": "https://goldfarm-staging.firebaseio.com",
+    "project_id": "goldfarm-staging",
+    "storage_bucket": "goldfarm-staging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679236146099:android:111ca9d69284611b4e31c6",
+        "android_client_info": {
+          "package_name": "com.farmer.goldfarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679236146099-atfhqotp8f13mac49ao4hdjb4q1avbpn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.farmer.goldfarm",
+            "certificate_hash": "5a833d3ccf61e4a1e180f2739c552898c21816f6"
+          }
+        },
+        {
+          "client_id": "679236146099-8up6cab4p680pndupssuab8d4h7490e7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2KW58PYY9mPCf_2YF4FPqSk31u9kW1pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679236146099-8up6cab4p680pndupssuab8d4h7490e7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "679236146099-gelkv1crhu70pmiv5s929mp9ekfpa3ul.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.goldfarm.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
